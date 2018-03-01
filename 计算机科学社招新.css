@@ -1,0 +1,55 @@
+#section1 {
+  background-image: url("images/2.png");
+  height:100vh;
+  background-size: cover;
+  margin: 0;
+}
+
+#video {
+ position: relative;
+ top: 615px;
+ width: 1247px;
+}
+
+h1 {
+	 font-family: 'Quantico', sans-serif;
+  position: relative;
+  top: -146%;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 65px;
+  letter-spacing: 0.0104348em;
+  color: #05C7F2;
+  margin: 0 auto;
+}
+
+#text {
+  position:relative;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  width: 1000px;
+  margin: 0 auto;
+  height: 100%;
+}
+
+h2 {
+	font-family: 'Quantico', sans-serif;
+  position: relative;
+  top: -120%;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 65px;
+  letter-spacing: 0.0104348em;
+  text-align: center;
+  color: #f9dc5c;
+  margin: 0 auto;
+  margin-top: -700px;
+}
+
+a {
+	text-decoration: none;
+}
